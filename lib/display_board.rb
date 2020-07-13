@@ -8,11 +8,3 @@ def display_board(blank_board)
   puts "-----------"
   puts "   |   |   "
 end
-
-def display_board(one_board)
-  puts "   |   |   "
-  puts "-----------"
-  puts "   | X |   "
-  puts "-----------"
-  puts "   |   |   "
-end
