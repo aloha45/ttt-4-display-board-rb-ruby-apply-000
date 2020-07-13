@@ -8,3 +8,5 @@ def display_board(blank_board)
   puts "-----------"
   puts "   |   |   "
 end
+
+board = [" "," "," "," ","X"," "," "," "," "]
